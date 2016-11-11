@@ -1,0 +1,11 @@
+특별한 발표자료 없이 진행하게 될 것 같습니다.
+
+미리 알려드렸어야 하는데 너무 늦었지만... 다음 사항이 공지되어야 하겠습니다.
+
+1. Windows에서 실습하는 경우 Visual Studio 설치
+http://www.visualstudio.com
+/downloads
+
+2. 튜토리얼 진행은 한국어로 진행하되 내용은 RustConf 2016 튜토리얼 자료를 활용할 계획입니다.
+http://www.rust-tutorials.com
+/RustConf16
